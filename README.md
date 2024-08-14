@@ -8,10 +8,10 @@ This is the final report for the `NodeJS` course.
 
 ### Built With
 
-- [![MongoDB][MongoDB.com]][MongoDB-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
-- [![Node.js][Nodejs.com]][Nodejs-url]
+- [![MongoDB][MongoDB.com]][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyRmieFYEx56pJ4SVB4N1QWY0-NNBNs1WKw&s]
+- [![Bootstrap][Bootstrap.com]][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttFIAbIL--Z8PAEk0PdV8tgMA3m-JH4ZK1LvZeUAfWPI41BqQqV4Iw15DDPX4P3TmsTI&usqp=CAU]
+- [![JQuery][JQuery.com]][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12gfpXntTysDo60u5JnfoxfIlDBga87llePUg2gwue4E1e6j9sGmExwZ5AiSiALfDPF8&usqp=CAU]
+- [![Node.js][Nodejs.com]][https://en.m.wikipedia.org/wiki/File:Node.js_logo.svg]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -45,7 +45,7 @@ This is the final report for the `NodeJS` course.
 6. Import the database using MongoDB Compass and import data from the /data directory.
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### Usage
-Demo Video: Click Here(https://drive.google.com/drive/folders/15fVosyc4hXVKhC1-yLQqwvnw82pggXbg?usp=sharing).
+Demo Video: Click Here[https://drive.google.com/drive/folders/15fVosyc4hXVKhC1-yLQqwvnw82pggXbg?usp=sharing].
 ### Access
 1. Admin:
  - Username: admin
