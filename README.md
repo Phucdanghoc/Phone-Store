@@ -7,11 +7,10 @@ This is the final report for the `NodeJS` course.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-
-- [![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)](https://www.mongodb.com/)
-- [![Bootstrap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttFIAbIL--Z8PAEk0PdV8tgMA3m-JH4ZK1LvZeUAfWPI41BqQqV4Iw15DDPX4P3TmsTI&usqp=CAU)](https://getbootstrap.com)
-- [![JQuery](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12gfpXntTysDo60u5JnfoxfIlDBga87llePUg2gwue4E1e6j9sGmExwZ5AiSiALfDPF8&usqp=CAU)](https://jquery.com)
-- [![Node.js](https://en.m.wikipedia.org/wiki/File:Node.js_logo.svg)](https://nodejs.org/en)
+[![MongoDB](https://iconduck.com/icons/13126/mongodb-original-wordmark)](https://www.mongodb.com/)
+[![Bootstrap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttFIAbIL--Z8PAEk0PdV8tgMA3m-JH4ZK1LvZeUAfWPI41BqQqV4Iw15DDPX4P3TmsTI&usqp=CAU)](https://getbootstrap.com)
+[![JQuery](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12gfpXntTysDo60u5JnfoxfIlDBga87llePUg2gwue4E1e6j9sGmExwZ5AiSiALfDPF8&usqp=CAU)](https://jquery.com)
+[![Node.js](https://en.m.wikipedia.org/wiki/File:Node.js_logo.svg)](https://nodejs.org/en)
 logo.svg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
